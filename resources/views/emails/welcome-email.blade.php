@@ -1,5 +1,5 @@
 @component('mail::message')
-# Welcome to freeCodeGram
+# Welcome to GITA
 
 This is a community of fellow developers and we love that you have joined us.
 
